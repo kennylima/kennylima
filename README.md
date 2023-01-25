@@ -1,8 +1,6 @@
-## Olá, eu sou o Kenny Lima!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6495ED,60:4F4F4F,60:1E90FF,90&height=175&section=header&text=Kenny%20Lima%20&fontSize=30&fontColor=F8F8FF&fontAlignY=30&animation=fadeIn&desc=Desenvolvedor%20Back-end%20&descAlignY=50"/>
 
-- 🔭 Em busca de uma primeira oportunidade na área!
-- 🌱 Atualmente estudando NodeJs
-- 😄 Pronouns: ele/dele
+ ##
 
 <div align="center"><br>
   <img align="center" alt="Kenny-pic" height="300" style="border-radius:50px;" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv">
@@ -40,3 +38,4 @@
  
 </div>
   
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6495ED,60:4F4F4F,60:1E90FF,90&height=105&section=footer&animation=fadeIn"/>
