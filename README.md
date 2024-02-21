@@ -1,5 +1,5 @@
 <!--Cabeçalho-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6495ED,60:4F4F4F,60:1E90FF,90&height=175&section=header&text=Kenny%20Lima%20&fontSize=30&fontColor=F8F8FF&fontAlignY=30&animation=fadeIn&desc=BackEnd%20Developer%20&descAlignY=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6495ED,60:4F4F4F,60:1E90FF,90&height=175&section=header&text=Kenny%20Lima%20&fontSize=30&fontColor=F8F8FF&fontAlignY=30&animation=fadeIn&desc=FullStack%20Developer%20&descAlignY=50"/>
 
 <!--Imagem principal-->
 <div align="center"><br>
